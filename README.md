@@ -32,8 +32,8 @@ The Iris dataset used in this project.
 #### 2-Opining project files by code editor of uour choise 
 
 #### 3-Running the Streamlit App:
-###### use the following command in your termial: 
-####### streamlit run app.py
+###### use the following command in your termial: streamlit run app.py
+
 
 
 ## Contributing
